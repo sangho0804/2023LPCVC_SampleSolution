@@ -7,7 +7,7 @@ data:
     val_split: val
     img_rows: 512
     img_cols: 512
-    path: /home/ping/Desktop/LPCVC/CCRI/LPCVC/
+    path: /PATH/TO/LPCVC/
 training:
     n_workers: 2
     train_iters: 40000
