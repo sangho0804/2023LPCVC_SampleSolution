@@ -4,7 +4,7 @@ model:
 data:
     dataset: lpcvc 
     train_split: train  
-    val_split: test
+    val_split: val
     img_rows: 512
     img_cols: 512
     path: /home/ping/Desktop/LPCVC/CCRI/LPCVC/
